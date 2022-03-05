@@ -1,8 +1,5 @@
-/*AUTHOR: Robert Wooldridge
- *CLASS: CSCI 6250: AOS
- *DUE DATE: 9/24/2020
- *DESCRIPTION: This program adds jobs control the partial shell implementation
- *
+/*
+ *DESCRIPTION: This program is a partial implementation of the bash shell
  */
 
 #include <stdio.h>
